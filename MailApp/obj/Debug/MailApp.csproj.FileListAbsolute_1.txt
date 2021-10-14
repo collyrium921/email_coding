@@ -1,0 +1,14 @@
+D:\git\emailers\MailApp\MailApp\bin\Debug\MailApp.exe.config
+D:\git\emailers\MailApp\MailApp\bin\Debug\MailApp.exe
+D:\git\emailers\MailApp\MailApp\bin\Debug\MailApp.pdb
+D:\git\emailers\MailApp\MailApp\obj\Debug\MailApp.csprojAssemblyReference.cache
+D:\git\emailers\MailApp\MailApp\obj\Debug\MailApp.csproj.CoreCompileInputs.cache
+D:\git\emailers\MailApp\MailApp\obj\Debug\MailApp.exe
+D:\git\emailers\MailApp\MailApp\obj\Debug\MailApp.pdb
+E:\gitlab_clones\mailers\MailApp\bin\Debug\MailApp.exe.config
+E:\gitlab_clones\mailers\MailApp\bin\Debug\MailApp.exe
+E:\gitlab_clones\mailers\MailApp\bin\Debug\MailApp.pdb
+E:\gitlab_clones\mailers\MailApp\obj\Debug\MailApp.csprojAssemblyReference.cache
+E:\gitlab_clones\mailers\MailApp\obj\Debug\MailApp.csproj.CoreCompileInputs.cache
+E:\gitlab_clones\mailers\MailApp\obj\Debug\MailApp.exe
+E:\gitlab_clones\mailers\MailApp\obj\Debug\MailApp.pdb
